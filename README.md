@@ -236,7 +236,7 @@ Para dúvidas ou sugestões sobre o projeto:
 
 - **Email**: seu.email@exemplo.com
 - **LinkedIn**: [Seu Perfil](https://linkedin.com/in/seu-perfil)
-- **GitHub**: [@seu-usuario](https://github.com/seu-usuario)
+- **GitHub**: [@seu-usuario](https://github.com/seu-usuar
 
 ---
 
