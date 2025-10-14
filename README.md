@@ -159,11 +159,6 @@ python detect.py \
 ![Resultados 30 épocas](./imagens_treinamento/grafico_treino_30.png)
 ![Resultados 60 épocas](./imagens_treinamento/grafico_treino_60.png)
 
-<p align="center">
-  <img src="results/exp_30_epochs/results.png" width="45%" />
-  <img src="results/exp_60_epochs/results.png" width="45%" />
-</p>
-
 *Evolução das métricas durante o treinamento: 30 épocas (esquerda) vs 60 épocas (direita)*
 
 ### 🎯 Matriz de Confusão
@@ -171,20 +166,11 @@ python detect.py \
 ![Matriz de Confusão 30 épocas](./imagens_treinamento/matriz_confusao_30.png)
 ![Matriz de Confusão 60 épocas](./imagens_treinamento/matriz_confusao_60.png)
 
-<p align="center">
-  <img src="results/exp_30_epochs/confusion_matrix.png" width="45%" />
-  <img src="results/exp_60_epochs/confusion_matrix.png" width="45%" />
-</p>
 
 ### 🖼️ Exemplos de Detecções
 
 ![Exemplo de detecção 1](./imagens_treinamento/exemplo_deteccao_30.jpg)
 ![Exemplo de detecção 2](./imagens_treinamento/exemplo_deteccao_60.jpg)
-
-<p align="center">
-  <img src="results/test_60_epochs/image1.jpg" width="45%" />
-  <img src="results/test_60_epochs/image2.jpg" width="45%" />
-</p>
 
 ## 💡 Conclusões
 
