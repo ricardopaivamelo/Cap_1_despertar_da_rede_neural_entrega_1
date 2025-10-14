@@ -155,21 +155,27 @@ python detect.py \
 | **Val Box Loss** | 0.075847 | 0.058971 | -22% |
 
 ### 📈 Gráficos de Treinamento
-
+30 ÉPOCAS
 ![Resultados 30 épocas](./imagens_treinamento/grafico_treino_30.png)
+
+60 ÉPOCAS
 ![Resultados 60 épocas](./imagens_treinamento/grafico_treino_60.png)
 
 *Evolução das métricas durante o treinamento: 30 épocas (esquerda) vs 60 épocas (direita)*
 
 ### 🎯 Matriz de Confusão
-
+30 ÉPOCAS
 ![Matriz de Confusão 30 épocas](./imagens_treinamento/matriz_confusao_30.png)
+
+60 ÉPOCAS
 ![Matriz de Confusão 60 épocas](./imagens_treinamento/matriz_confusao_60.png)
 
 
 ### 🖼️ Exemplos de Detecções
-
+30 ÉPOCAS
 ![Exemplo de detecção 1](./imagens_treinamento/exemplo_deteccao_30.jpg)
+
+60 ÉPOCAS
 ![Exemplo de detecção 2](./imagens_treinamento/exemplo_deteccao_60.jpg)
 
 ## 💡 Conclusões
