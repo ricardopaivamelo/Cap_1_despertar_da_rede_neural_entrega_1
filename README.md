@@ -213,11 +213,10 @@ python detect.py \
 - [ ] Deploy em edge devices (Raspberry Pi, Jetson Nano)
 - [ ] Integração com sistema de alerta automático
 
-## 👥 Equipe
+## Link para video
+https://youtu.be/hK3Ovtn0ThE
 
-- **[Seu Nome]** - Desenvolvimento e Treinamento
-- **[Nome do Colega]** - Preparação do Dataset
-- **[Outros Membros]** - Análise e Documentação
+-
 
 ## 📚 Referências
 
@@ -226,17 +225,6 @@ python detect.py \
 - Redmon, J., & Farhadi, A. (2018). YOLOv3: An Incremental Improvement
 - Jocher, G. (2020). YOLOv5: A State-of-the-Art Real-Time Object Detection
 
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
-## 📞 Contato
-
-Para dúvidas ou sugestões sobre o projeto:
-
-- **Email**: seu.email@exemplo.com
-- **LinkedIn**: [Seu Perfil](https://linkedin.com/in/seu-perfil)
-- **GitHub**: [@seu-usuario](https://github.com/seu-usuario)
 
 ---
 
