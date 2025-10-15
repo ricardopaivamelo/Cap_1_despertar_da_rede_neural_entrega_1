@@ -1,0 +1,16 @@
+# Dataset configuration for YOLO training
+# Coffee vs Mountains Classification
+
+# Paths (ajustar conforme necessário)
+path: /home/ubuntu/Developer/Others/fiap-fase-06-cap-01
+train: Coffee/Treino  # pasta com imagens de treino
+val: Coffee/Validacao  # pasta com imagens de validação
+test: Coffee/Teste     # pasta com imagens de teste
+
+# Classes
+nc: 2  # número de classes
+names: ['coffee', 'mountains']  # nomes das classes
+
+# Notas:
+# - Certifique-se de que os labels (.txt) estão nas mesmas pastas das imagens
+# - Ou organize labels em uma pasta separada seguindo estrutura YOLO
